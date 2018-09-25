@@ -1,1 +1,1 @@
-# currency-watcher
+# Currency Watcher
