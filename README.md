@@ -12,6 +12,5 @@ A fully serverless application for currency reporting
 ## Installation
 
 ```
-pip install urllib3 -t .\
-pip install beautifulsoup4 -t .\
+pip install -r requirements.txt -t .\
 ```
